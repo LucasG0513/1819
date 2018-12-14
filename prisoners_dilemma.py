@@ -256,7 +256,7 @@ def make_section2(modules, scores):
     ----------------------------------------------------------------------------
     Average points per round:
     Team name (P#):  Score       with strategy name
-    Champ10nz (P0):   100 points with Loyal
+    Kahooters (P0):   100 points with Loyal
     Rockettes (P1):  -500 points with Backstabber
     ''' 
     section2 = '-'*80+'\nSection 2 - Leaderboard\n'+'-'*80+'\n'
